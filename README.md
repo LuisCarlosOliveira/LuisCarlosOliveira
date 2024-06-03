@@ -19,11 +19,8 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
+<div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" />
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" />
-</p>
+</div>
+
