@@ -21,10 +21,10 @@
 <!-- GitHub Stats -->
 <div style="display: flex; justify-content: center; gap: 10px;">
   <div style="width: 30%; height: 120px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="width: 50%; height: 150px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="width: 40vh; height: 150px;"/>
   </div>
   <div style="width: 30%; height: 120px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 50%; height: 150px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 40vh; height: 150px;"/>
   </div>
 </div>
 
