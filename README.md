@@ -15,7 +15,7 @@
 
 ## Skills
 
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
