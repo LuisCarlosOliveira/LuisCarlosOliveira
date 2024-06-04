@@ -28,8 +28,7 @@
   </div>
 </div>
 
-## Thanks for Visiting!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=100&fontColor=ffffff&fontSize=20&text=Happy%20Coding!"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=100&fontColor=ffffff&fontSize=20&text=Thanks%20for%20Visiting!"/>
 </p>
