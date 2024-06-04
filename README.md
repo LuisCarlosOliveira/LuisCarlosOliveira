@@ -12,9 +12,6 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-influxdb-a-sql-like-query-language-for-interacting-with-data-in-influxdb-logo-shadow-tal-revivo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/rabbitmq.png"/>
-  <img src="https://img.icons8.com/color/48/000000/webrtc.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
 </p>
 
@@ -35,8 +32,8 @@
 
 <!-- GitHub Stats -->
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="width: 45%; height: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 45%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="width: 45%; height: 25%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 45%; height: 25%;"/>
 </div>
 
 <p align="center">
