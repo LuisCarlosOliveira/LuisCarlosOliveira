@@ -19,8 +19,8 @@
 </p>
 
 <!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="flex: 1 1 45%; max-width: 45%; height: 150px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="flex: 1 1 45%; max-width: 45%; height: 150px;"/>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="flex: 1; height: 150px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="flex: 1; height: 150px;"/>
 </div>
 
