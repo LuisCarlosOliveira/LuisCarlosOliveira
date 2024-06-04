@@ -13,7 +13,9 @@
   </a>
 </p>
 
-## Skills
+<p align="center">
+  <strong><h2>Skills</h2></strong>
+</p>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -39,3 +41,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=100&fontColor=ffffff&fontSize=20&text=Thanks%20for%20Visiting!"/>
 </p>
+
