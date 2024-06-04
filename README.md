@@ -32,11 +32,14 @@
 
 <!-- GitHub Stats -->
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="width: 400px; height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 400px; height: 200px;"/>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 100%; height: auto;"/>
+  </div>
 </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=100&fontColor=ffffff&fontSize=20&text=Thanks%20for%20Visiting!"/>
 </p>
-
