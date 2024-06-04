@@ -31,9 +31,9 @@
 </p>
 
 <!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="width: 300px; height: 150px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 300px; height: 150px;"/>
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="width: 45%; max-width: 400px; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 45%; max-width: 400px; height: auto;"/>
 </div>
 
 <p align="center">
