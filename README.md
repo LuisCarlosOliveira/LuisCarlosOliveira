@@ -3,6 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=auto&height=200&fontColor=ffffff&fontSize=40&desc=Welcome%20to%20my%20profile&descSize=30&descAlignY=75&descAlign=62"/>
 </p>
 
+## Skills
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-influxdb-a-sql-like-query-language-for-interacting-with-data-in-influxdb-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/rabbitmq.png"/>
+  <img src="https://img.icons8.com/color/48/000000/webrtc.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+</p>
+
 <!-- Social Media Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-oliveira-8271ab141/">
@@ -20,14 +35,9 @@
 
 <!-- GitHub Stats -->
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <div style="width: 30%; height: 120px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="width: 40vh; height: 150px;"/>
-  </div>
-  <div style="width: 30%; height: 120px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 40vh; height: 150px;"/>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosOliveira&show_icons=true&theme=radical" alt="Luis Carlos Oliveira's GitHub stats" style="width: 45%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 45%; height: auto;"/>
 </div>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=100&fontColor=ffffff&fontSize=20&text=Thanks%20for%20Visiting!"/>
