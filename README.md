@@ -27,3 +27,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosOliveira&layout=compact&theme=radical" alt="Luis Carlos Oliveira's most used languages" style="width: 100%; height: 100%;"/>
   </div>
 </div>
+
+## Thanks for Visiting!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=100&fontColor=ffffff&fontSize=20&text=Happy%20Coding!"/>
+</p>
